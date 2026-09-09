@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028331024456",
+    "project_id": "creator-33409",
+    "storage_bucket": "creator-33409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028331024456:android:eb6e687dbf5d44ca41687d",
+        "android_client_info": {
+          "package_name": "com.trylo.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028331024456-u62fkb9jc0o24u4md21l1elm8v40n34u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trylo.dating",
+            "certificate_hash": "5e94b2a051b2b31453560a9cafc134e97dd6e984"
+          }
+        },
+        {
+          "client_id": "1028331024456-ctm0sk84vgh887k46lp90jcuvgq8ol9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-EkUdOJ1siqkx0CPecHoZFdFqfZrFh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028331024456-ctm0sk84vgh887k46lp90jcuvgq8ol9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
